@@ -60,3 +60,6 @@ $$Q_{n+1} = Q_n + \frac{1}{n} [R_n - Q_n]$$
 - **Agent's Predicted Best Arm:** [2]
 - **Status:** Convergence Successful. 
 - **Observation:** The estimated Q-values are remarkably close to the true values, proving the effectiveness of the incremental update rule.
+
+### 6. Graph plot / Result
+![Epsilon-Greedy Learning Curve](Multi-Armed-Bandits/bandit_epsilon_01.png)
